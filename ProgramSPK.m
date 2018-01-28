@@ -1,4 +1,4 @@
-function varargout = ProgramSPK(varargin)
+function varargout = ProgramSPK(varargin) %GUI
 % PROGRAMSPK MATLAB code for ProgramSPK.fig
 %      PROGRAMSPK, by itself, creates a new PROGRAMSPK or raises the existing
 %      singleton*.
