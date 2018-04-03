@@ -1,2 +1,4 @@
 # Breast-Cancer-Identification
-Breast Cancer Identification based on Gray Level Coocurrence Matrix Texture Feature of Mammogram Image using Backpropagation Artificial Neural Network and K-Nearest Neighbor
+Breast Cancer Identification based on Gray Level Coocurrence Matrix Texture Feature of Mammogram Image using Backpropagation Artificial Neural Network and K-Nearest Neighbor. 
+
+Texture features are extracted from segmented cancer region on breast image. At identification stage, Artificial Neural Network and K-Nearest Neighbor are applied to give a decision against level of cancer from patient and then calculate and compare the accuracy between Artificial Neural Network and K-Nearest Neighbor. Based on 96 images testing data, produce 62,50% for highest accuracy using K-Nearest Neighbor and 74% for highest accuracy using Artificial Neural Network. It can be concluded that Artificial Neural Network is better at identifying the cancer phase on breast cancer using texture feature based on mammogram image compared to K-Nearest Neighbor.
